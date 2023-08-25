@@ -1,0 +1,137 @@
+{
+  "project_info": {
+    "project_number": "822184457457",
+    "project_id": "trigger-news-app",
+    "storage_bucket": "trigger-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822184457457:android:5e19aed8ca66516c1f2550",
+        "android_client_info": {
+          "package_name": "com.example.trigger_news_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822184457457-ljjfhcn3gq38nleb543hfn2346p2kso7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trigger_news_1",
+            "certificate_hash": "c44ea3c4d66150815423bb21dbf2e594d3ac785e"
+          }
+        },
+        {
+          "client_id": "822184457457-lfg1hapkofgasmg439tf5p2rfe8uof0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejIHvINNsnpqq3SQdXa1jIfkBAoFOlWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822184457457-lfg1hapkofgasmg439tf5p2rfe8uof0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822184457457:android:cef99dd57c68b72d1f2550",
+        "android_client_info": {
+          "package_name": "mrblab.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822184457457-a07plb2gmtrqhm1pl45ecjc9nod2mfp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mrblab.news_app",
+            "certificate_hash": "53b3dea873be04a8e1a9e792df9b8239b18f5bde"
+          }
+        },
+        {
+          "client_id": "822184457457-lf4ljrcl3ktg448rr87tca8ctdnmfjac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mrblab.news_app",
+            "certificate_hash": "0f06a144acbd27c4ce218e6ab9eaf72f03ee142f"
+          }
+        },
+        {
+          "client_id": "822184457457-lfg1hapkofgasmg439tf5p2rfe8uof0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejIHvINNsnpqq3SQdXa1jIfkBAoFOlWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822184457457-lfg1hapkofgasmg439tf5p2rfe8uof0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822184457457:android:44caacceba4cb6241f2550",
+        "android_client_info": {
+          "package_name": "trigger.customer.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822184457457-1pvcv1j3rd7le969us19aedjdvdqudep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trigger.customer.news",
+            "certificate_hash": "53b3dea873be04a8e1a9e792df9b8239b18f5bde"
+          }
+        },
+        {
+          "client_id": "822184457457-497qvqjdegidvvgkgp7uvsoje9elsagn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trigger.customer.news",
+            "certificate_hash": "0f06a144acbd27c4ce218e6ab9eaf72f03ee142f"
+          }
+        },
+        {
+          "client_id": "822184457457-lfg1hapkofgasmg439tf5p2rfe8uof0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejIHvINNsnpqq3SQdXa1jIfkBAoFOlWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822184457457-lfg1hapkofgasmg439tf5p2rfe8uof0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
